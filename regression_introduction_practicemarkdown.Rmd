@@ -1,0 +1,16 @@
+---
+title: "Regression_info_practicemarkdown"
+author: "Jennifer Gomez"
+date: "November 7, 2016"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+#Markdown test
+
+##test2
+
+###test3
